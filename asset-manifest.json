@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SAMKOV_DESIGN/static/css/main.182c1194.css",
+    "main.js": "/SAMKOV_DESIGN/static/js/main.0eac8501.js",
+    "static/media/Background.mp4": "/SAMKOV_DESIGN/static/media/Background.eca9d28120e9e12d7fe6.mp4",
+    "index.html": "/SAMKOV_DESIGN/index.html",
+    "main.182c1194.css.map": "/SAMKOV_DESIGN/static/css/main.182c1194.css.map",
+    "main.0eac8501.js.map": "/SAMKOV_DESIGN/static/js/main.0eac8501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.182c1194.css",
+    "static/js/main.0eac8501.js"
+  ]
+}
